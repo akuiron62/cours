@@ -3,7 +3,7 @@ C’est un outil qui permet de faire du versioning.
 Le versioning permet d’avoir un historique de toutes les modifications que l’on fait à un projet.
 Nous avons une sorte de timeline qui permet de voir toutes les modifications et de pouvoir revenir en arrière à tous moments.
 Git permet également de résoudre les problèmes de conflits. C’est utile lorsque l’on travaille à plusieurs sur le même projet.
-Git permet de faire des ‹ des branches › : Créer une branche, c’est en quelque sorte comme créer une “copie” de votre projet pour développer et tester de nouvelles fonctionnalités sans impacter le projet de base.
+Git permet de faire des branches : Créer une branche, c’est en quelque sorte comme créer une “copie” de votre projet pour développer et tester de nouvelles fonctionnalités sans impacter le projet de base.
 
 ***
 
@@ -14,7 +14,7 @@ C’est un système décentralisé, c’est à dire que chaque utilisateur va av
 
 ## Installer Git
 
-Se rendre sur l’adresse : [git-scm.com](git-scm.com)
+Se rendre sur l’adresse : [git-scm.com/](https://git-scm.com/)
 
 Pour Windows :
 * télécharger l’installeur (cliquer sur installer pour windows)
